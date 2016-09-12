@@ -9,7 +9,7 @@ top-level directory.
 0. Next type  `gem install bundler` to  install the bundler gem
 
 
-0.Enter the command `bundle install --without production` to make sure all the gems
+0. Enter the command `bundle install --without production` to make sure all the gems
 (libraries) used by the app are in place.
 
 0. Run `rake db:setup` to create the initial database.
@@ -22,6 +22,6 @@ top-level directory.
 up a window showing the URL to visit in your browser to interact with
 the running app. You can also view the app in the Cloud9 "Preview" window.
 
-0.To kill the server, enter CNTL-c.
+0. To kill the server, enter CNTL-c.
 
 
