@@ -12,7 +12,7 @@ top-level directory.
 0. Enter the command `bundle install --without production` to make sure all the gems
 (libraries) used by the app are in place.
 
-0. Run `rake db:setup` to create the initial database.
+0. Run `rake db:create` to create the initial database.
 
 0. Run `rake db:migrate` to apply the database migrations.
 
